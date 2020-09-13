@@ -17,6 +17,7 @@
 
 int main()
 {
-    std::cout<<"Value is now: "<<gfg;  //using scope resolution operators after "standard" instead of "namespace standard"
+    std::cout<<"Value is now: "<<gfg;  //using scope resolution operators after "standard" instead of "namespace standard".
+                                       //The std::cout is used to identify the standard character output device which is usually the desktop screen.
     return 0;
 }
