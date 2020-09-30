@@ -1,7 +1,7 @@
 //There are various uses of namespace in C++(not in C).Here we can see that same variablename is used under diff.scopes 
 //and having diff.namespaces.
 
-
+#include <bits/stdc++.h>
 #include <iostream>
 using namespace std;
 
